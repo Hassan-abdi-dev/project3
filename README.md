@@ -11,3 +11,8 @@ Technology used
   .4 BOOTSRAP
  
   .5  JQUERY
+ 
+CONTACT INFO;
+
+  E-mail emperadam@gmail.com
+  
