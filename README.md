@@ -16,5 +16,5 @@ CONTACT INFO;
 
   E-mail emperadam@gmail.com
   
-  Athor; Hassan Abdi
+  Author; Hassan Abdi
   
